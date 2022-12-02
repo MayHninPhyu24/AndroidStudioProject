@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657209066879",
+    "project_id": "inviteapp-1c308",
+    "storage_bucket": "inviteapp-1c308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657209066879:android:672f70537fe218c51d464a",
+        "android_client_info": {
+          "package_name": "com.example.invite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657209066879-gs46j9m6slu8oi0kfn6ct8l2p8tovmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invite_app",
+            "certificate_hash": "fd4e255b9c749a089b708b45802f84235f57337a"
+          }
+        },
+        {
+          "client_id": "657209066879-vsgeujpb9m5nttb3f9dtpbrktv4fc1h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKfSM9lulCjKtVJwBIFVvBMeReEiUpzpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657209066879-vsgeujpb9m5nttb3f9dtpbrktv4fc1h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
