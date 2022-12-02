@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852271643959",
+    "project_id": "ecommerence-11111",
+    "storage_bucket": "ecommerence-11111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852271643959:android:d3d87f92d305d118bfaeb2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852271643959-kjafkjfh164o26he22denc90apsnifh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerence",
+            "certificate_hash": "fd4e255b9c749a089b708b45802f84235f57337a"
+          }
+        },
+        {
+          "client_id": "852271643959-8qb0t7v2k4lmuqv5bm4er3aqkc1g0f06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDizyi8fphJzFWMTcCmL4HoG5ePw8WAkVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852271643959-8qb0t7v2k4lmuqv5bm4er3aqkc1g0f06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
